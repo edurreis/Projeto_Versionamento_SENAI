@@ -1,1 +1,9 @@
-Título da Page
+Fluxo de trabalho local
+
+
+Trabalhar no código
+git add . 
+git commit -m "Descrição do commit"
+
+
+git log - Mostrar os commits existentes no repositório.
