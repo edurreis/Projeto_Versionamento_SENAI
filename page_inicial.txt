@@ -16,3 +16,18 @@ Trabalhar no código
 git add .
 git commit -m "Descrição do commit"
 git push origin main
+
+
+Git Flow -> técnica utilizada p/ criar várias branches.
+
+trunk/ branch master ou main -> branch principal, ambiente de produção que vai p/usuário.
+
+branch Develop -> branch de homologação, onde se trabalha a próxima atualização.
+
+branch feature -> utilizada para o desenvolvimento de funcionalidades específicas.
+
+git branch -> comando p/criar uma nova branch ou mostrar as branches que existem.
+
+git branch -a -> mostra as branches locais e remotas.
+
+git checkout -> mudar pra outra branch.
