@@ -11,6 +11,7 @@ git log - Mostrar os commits existentes no repositório.
 
 Fluxo de Trabalho com Repositório Remoto
 
+<git clone> - Baixar o projeto para sua máquina
 Trabalhar no código 
 git add .
 git commit -m "Descrição do commit"
