@@ -31,3 +31,5 @@ git branch -> comando p/criar uma nova branch ou mostrar as branches que existem
 git branch -a -> mostra as branches locais e remotas.
 
 git checkout -> mudar pra outra branch.
+
+git merge -> junta o conteúdo da branch develop para a main.
